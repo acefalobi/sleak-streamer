@@ -1,0 +1,4 @@
+rootProject.name = 'sleak-streamer'
+include 'server'
+include 'client'
+
